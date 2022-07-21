@@ -1,8 +1,8 @@
 ### Hi there 👋
-<!--### Hello World, I am Akshat 👋 -->
+<!--### Hello World, I am Advay 👋 -->
 <div> 
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Dancing+Script&size=40&vCenter=true&width=500&lines=Hey+There!!+%F0%9F%91%8B;I+am+Akshat+;I+am+a+Full+Stack+Developer&color=ff960d)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Dancing+Script&size=40&vCenter=true&width=500&lines=Hey+There!!+%F0%9F%91%8B;I+am+Akshat+;I+am+a+Full+Stack+Developer&color=#3eed95)](https://git.io/typing-svg)
 
 <img src="gif.gif" width="300px" alt=gif align="right"> 
 </div>
@@ -20,10 +20,9 @@
 <br />
 <br />
 <p align="center">
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/akshatnema?color=ffb300&logo=github&style=for-the-badge&logoColor=ffb300">
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/Aragorn-64?color=ffb300&logo=github&style=for-the-badge&logoColor=ffb300">
  <!-- <img src="https://gpvc.arturio.dev/AKSHATNEMA" alt="profile views"> -->
-  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/akshatnema?affiliations=OWNER&color=ffb300&logo=github&style=for-the-badge&logoColor=ffb300">  
- <img alt="Follow Twitter" src="https://img.shields.io/twitter/follow/AksNema?color=ffb300&label=Aks%20Nema&logo=twitter&logoColor=ffb300&style=for-the-badge">
+  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Aragorn-64?affiliations=OWNER&color=ffb300&logo=github&style=for-the-badge&logoColor=ffb300"> 
   
 </p> 
 
