@@ -1,8 +1,7 @@
-### Hi there 👋
 <!--### Hello World, I am Advay 👋 -->
 <div> 
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Dancing+Script&size=40&vCenter=true&width=500&lines=Hey+There!!+%F0%9F%91%8B;I+am+Advay+;I+am+a+Full+Computer+Science+and+Engineering&color=#3eed95)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=40&color=3EED95&vCenter=true&lines=Hello+there!;I+am+Advay+%F0%9F%98%83;I+am+a+Computer+Science+and+Engineering+student)](https://git.io/typing-svg)
 
 <img src="gif.gif" width="300px" alt=gif align="right"> 
 </div>
