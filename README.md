@@ -20,20 +20,20 @@
 <br />
 <br />
 <p align="center">
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/Aragorn-64?color=ffb300&logo=github&style=for-the-badge&logoColor=ffb300">
-  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Aragorn-64?affiliations=OWNER&color=ffb300&logo=github&style=for-the-badge&logoColor=ffb300"> 
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/Aragorn-64?color=3eed95&logo=github&style=for-the-badge&logoColor=3eed95">
+  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Aragorn-64?affiliations=OWNER&color=3eed95&logo=github&style=for-the-badge&logoColor=3eed95"> 
   
 </p> 
 
 <div align="center">
 
-<img width="400px" src="https://github-readme-stats.vercel.app/api?username=Aragorn-64&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=ff7a0d&text_color=ffb300&icon_color=ffb300&cache_seconds=1800" />
-<img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=Aragorn-64&background=00000000&hide_border=true&stroke=ffb300&ring=ff960d&fire=ffd500&currStreakNum=ff7a0d&sideNums=ff7a0d&currStreakLabel=ffb300&sideLabels=ffb300&dates=ffb300" />
+<img width="400px" src="https://github-readme-stats.vercel.app/api?username=Aragorn-64&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=ff7a0d&text_color=3eed95&icon_color=3eed95&cache_seconds=1800" />
+<img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=Aragorn-64&background=00000000&hide_border=true&stroke=3eed95&ring=ff960d&fire=ffd500&currStreakNum=ff7a0d&sideNums=ff7a0d&currStreakLabel=3eed95&sideLabels=3eed95&dates=3eed95" />
   
 </div> 
 
 <div align="center">
-<img src="https://activity-graph.herokuapp.com/graph?username=Aragorn-64&theme=react-dark&bg_color=00000000&color=ff7a0d&line=ffb300&point=ff7a0d&area=true&hide_border=true&area_color=ffb300"> <br>
+<img src="https://activity-graph.herokuapp.com/graph?username=Aragorn-64&theme=react-dark&bg_color=00000000&color=ff7a0d&line=3eed95&point=ff7a0d&area=true&hide_border=true&area_color=3eed95"> <br>
 </div>
 
 |               |           |
