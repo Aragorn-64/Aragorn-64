@@ -2,18 +2,18 @@
 <!--### Hello World, I am Advay 👋 -->
 <div> 
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Dancing+Script&size=40&vCenter=true&width=500&lines=Hey+There!!+%F0%9F%91%8B;I+am+Akshat+;I+am+a+Full+Stack+Developer&color=#3eed95)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Dancing+Script&size=40&vCenter=true&width=500&lines=Hey+There!!+%F0%9F%91%8B;I+am+Advay+;I+am+a+Full+Computer+Science+and+Engineering&color=#3eed95)](https://git.io/typing-svg)
 
 <img src="gif.gif" width="300px" alt=gif align="right"> 
 </div>
   <br />
 
-  - 🔭 I’m currently working on Web Development
+  - 🔭 I’m currently working on Competitive Programming and Web Development
   - 🌱 I’m currently learning: Next.js
   - 💬 Ask me about: C++, Competitive Programming, Web Development
-  - 📫 How to reach me:through [mail](mailto:akshatnema.official@gmail.com) and [linkedin](https://www.linkedin.com/in/akshat-nema-2002/)
+  - 📫 How to reach me:through [mail](mailto:advaysagarkar@gmail.com) and [linkedin](https://www.linkedin.com/in/advay-sagarkar/)
   - 😄 Pronouns: He/him.
-  - ⚡ Fun fact: I am still a newbie😄.
+  
 
 <br />
 <br />
@@ -21,20 +21,19 @@
 <br />
 <p align="center">
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/Aragorn-64?color=ffb300&logo=github&style=for-the-badge&logoColor=ffb300">
- <!-- <img src="https://gpvc.arturio.dev/AKSHATNEMA" alt="profile views"> -->
   <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Aragorn-64?affiliations=OWNER&color=ffb300&logo=github&style=for-the-badge&logoColor=ffb300"> 
   
 </p> 
 
 <div align="center">
 
-<img width="400px" src="https://github-readme-stats.vercel.app/api?username=akshatnema&custom_title=In+Data+We+Trust&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=ff7a0d&text_color=ffb300&icon_color=ffb300&cache_seconds=1800" />
-<img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=akshatnema&background=00000000&hide_border=true&stroke=ffb300&ring=ff960d&fire=ffd500&currStreakNum=ff7a0d&sideNums=ff7a0d&currStreakLabel=ffb300&sideLabels=ffb300&dates=ffb300" />
+<img width="400px" src="https://github-readme-stats.vercel.app/api?username=Aragorn-64&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=ff7a0d&text_color=ffb300&icon_color=ffb300&cache_seconds=1800" />
+<img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=Aragorn-64&background=00000000&hide_border=true&stroke=ffb300&ring=ff960d&fire=ffd500&currStreakNum=ff7a0d&sideNums=ff7a0d&currStreakLabel=ffb300&sideLabels=ffb300&dates=ffb300" />
   
 </div> 
 
 <div align="center">
-<img src="https://activity-graph.herokuapp.com/graph?username=akshatnema&theme=react-dark&bg_color=00000000&color=ff7a0d&line=ffb300&point=ff7a0d&area=true&hide_border=true&area_color=ffb300"> <br>
+<img src="https://activity-graph.herokuapp.com/graph?username=Aragorn-64&theme=react-dark&bg_color=00000000&color=ff7a0d&line=ffb300&point=ff7a0d&area=true&hide_border=true&area_color=ffb300"> <br>
 </div>
 
 |               |           |
@@ -46,21 +45,6 @@
 
 
 
-
-<!--
-**AKSHATNEMA/AKSHATNEMA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
 <!--
