@@ -30,7 +30,9 @@
 <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=Aragorn-64&background=00000000&hide_border=true&stroke=3eed95&ring=ff960d&fire=ffd500&currStreakNum=ff7a0d&sideNums=ff7a0d&currStreakLabel=3eed95&sideLabels=3eed95&dates=3eed95" />
   
 </div> 
-
+<div align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aragorn-64&show_icons=true&locale=en&layout=compact&hide_border=true&count_private=true&bg_color=00000000&title_color=ff7a0d&text_color=3eed95&icon_color=3eed95&cache_seconds=1800" alt="Aragorn-64"/>
+</div> 
 <div align="center">
 <img src="https://activity-graph.herokuapp.com/graph?username=Aragorn-64&theme=react-dark&bg_color=00000000&color=ff7a0d&line=3eed95&point=ff7a0d&area=true&hide_border=true&area_color=3eed95"> <br>
 </div>
