@@ -8,7 +8,7 @@
   <br />
 
   - 🔭 I’m currently working on Competitive Programming and Web Development
-  - 🌱 I’m currently learning: SQL
+  - 🌱 I’m currently learning: JavaScript
   - 💬 Ask me about: C++, Competitive Programming, Web Development
   - 📫 How to reach me:through [mail](mailto:advaysagarkar@gmail.com) and [linkedin](https://www.linkedin.com/in/advay-sagarkar/)
   - 😄 Pronouns: He/him.
