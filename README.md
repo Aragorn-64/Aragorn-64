@@ -1,17 +1,16 @@
 <h1 align="center">Hi 👋, I'm Advay Sagarkar</h1>
 <h3 align="center">A programmer, developer and problem solver pursuing Computer Science and Engineering from IIITDM Jabalpur</h3>
 
-- 🌱 I’m currently learning **Javascript and exploring backend options**
+<!-- - 🌱 I’m currently learning **Javascript and exploring backend options** -->
 
 - 📫 How to reach me **advaysagarkar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/aragorn-64" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="aragorn-64" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/advay-sagarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="advay-sagarkar" height="30" width="40" /></a>
+ <a href="https://codeforces.com/profile/aragorn_x64" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="aragorn_x64" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/aragorn64" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aragorn64" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/advaysagarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="advaysagarkar" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/aragorn_x64" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="aragorn_x64" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/advay64" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="advay64" height="30" width="40" /></a>
 </p>
 
